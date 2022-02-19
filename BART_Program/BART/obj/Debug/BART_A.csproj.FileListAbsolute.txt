@@ -1,0 +1,13 @@
+C:\Users\thund\Desktop\BART_A\BART_A\bin\Debug\BART.exe.config
+C:\Users\thund\Desktop\BART_A\BART_A\bin\Debug\BART.exe
+C:\Users\thund\Desktop\BART_A\BART_A\bin\Debug\BART.pdb
+C:\Users\thund\Desktop\BART_A\BART_A\obj\Debug\BART_A.csprojResolveAssemblyReference.cache
+C:\Users\thund\Desktop\BART_A\BART_A\obj\Debug\BART.Form1.resources
+C:\Users\thund\Desktop\BART_A\BART_A\obj\Debug\BART.Form2.resources
+C:\Users\thund\Desktop\BART_A\BART_A\obj\Debug\BART.Form3.resources
+C:\Users\thund\Desktop\BART_A\BART_A\obj\Debug\BART.Form4.resources
+C:\Users\thund\Desktop\BART_A\BART_A\obj\Debug\BART.Properties.Resources.resources
+C:\Users\thund\Desktop\BART_A\BART_A\obj\Debug\BART.Resource1.resources
+C:\Users\thund\Desktop\BART_A\BART_A\obj\Debug\BART_A.csproj.GenerateResource.Cache
+C:\Users\thund\Desktop\BART_A\BART_A\obj\Debug\BART.exe
+C:\Users\thund\Desktop\BART_A\BART_A\obj\Debug\BART.pdb

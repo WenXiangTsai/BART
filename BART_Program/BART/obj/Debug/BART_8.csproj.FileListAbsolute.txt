@@ -1,0 +1,12 @@
+C:\Users\thund\Desktop\BART_8\BART_8\bin\Debug\BART_8c.exe.config
+C:\Users\thund\Desktop\BART_8\BART_8\obj\Debug\BART_8c.exe
+C:\Users\thund\Desktop\BART_8\BART_8\obj\Debug\BART_8c.pdb
+C:\Users\thund\Desktop\BART_8\BART_8\bin\Debug\BART_8c.exe
+C:\Users\thund\Desktop\BART_8\BART_8\bin\Debug\BART_8c.pdb
+C:\Users\thund\Desktop\BART_8\BART_8\obj\Debug\BART_8.csprojResolveAssemblyReference.cache
+C:\Users\thund\Desktop\BART_8\BART_8\obj\Debug\BART.Form1.resources
+C:\Users\thund\Desktop\BART_8\BART_8\obj\Debug\BART.Form2.resources
+C:\Users\thund\Desktop\BART_8\BART_8\obj\Debug\BART.Form3.resources
+C:\Users\thund\Desktop\BART_8\BART_8\obj\Debug\BART_8c.Properties.Resources.resources
+C:\Users\thund\Desktop\BART_8\BART_8\obj\Debug\BART_8c.Resource1.resources
+C:\Users\thund\Desktop\BART_8\BART_8\obj\Debug\BART_8.csproj.GenerateResource.Cache

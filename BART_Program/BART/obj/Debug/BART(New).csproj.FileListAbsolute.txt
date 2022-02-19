@@ -1,0 +1,93 @@
+c:\users\racco\documents\visual studio 2015\Projects\BART(New)\BART(New)\bin\Debug\BART(New).exe.config
+c:\users\racco\documents\visual studio 2015\Projects\BART(New)\BART(New)\bin\Debug\BART(New).exe
+c:\users\racco\documents\visual studio 2015\Projects\BART(New)\BART(New)\bin\Debug\BART(New).pdb
+c:\users\racco\documents\visual studio 2015\Projects\BART(New)\BART(New)\obj\Debug\BART(New).csprojResolveAssemblyReference.cache
+c:\users\racco\documents\visual studio 2015\Projects\BART(New)\BART(New)\obj\Debug\BART_New_.Form1.resources
+c:\users\racco\documents\visual studio 2015\Projects\BART(New)\BART(New)\obj\Debug\BART_New_.Properties.Resources.resources
+c:\users\racco\documents\visual studio 2015\Projects\BART(New)\BART(New)\obj\Debug\BART_New_.Resource1.resources
+c:\users\racco\documents\visual studio 2015\Projects\BART(New)\BART(New)\obj\Debug\BART(New).csproj.GenerateResource.Cache
+c:\users\racco\documents\visual studio 2015\Projects\BART(New)\BART(New)\obj\Debug\BART(New).exe
+c:\users\racco\documents\visual studio 2015\Projects\BART(New)\BART(New)\obj\Debug\BART(New).pdb
+C:\Users\Racco\Documents\Visual Studio 2015\Projects\BART(New)\BART(New)\obj\Debug\BART_New_.Form2.resources
+C:\Users\Racco\Documents\Visual Studio 2015\Projects\BART(New)\BART(New)\obj\Debug\BART_New_.Form3.resources
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(New)\BART(New)\bin\Debug\BART(New).exe.config
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(New)\BART(New)\obj\Debug\BART(New).exe
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(New)\BART(New)\obj\Debug\BART(New).pdb
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(New)\BART(New)\bin\Debug\BART(New).exe
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(New)\BART(New)\bin\Debug\BART(New).pdb
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(New)\BART(New)\obj\Debug\BART(New).csprojResolveAssemblyReference.cache
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(New)\BART(New)\obj\Debug\BART_New_.Form1.resources
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(New)\BART(New)\obj\Debug\BART_New_.Form2.resources
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(New)\BART(New)\obj\Debug\BART_New_.Form3.resources
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(New)\BART(New)\obj\Debug\BART_New_.Properties.Resources.resources
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(New)\BART(New)\obj\Debug\BART_New_.Resource1.resources
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(New)\BART(New)\obj\Debug\BART(New).csproj.GenerateResource.Cache
+C:\Users\thund\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\bin\Debug\BART(New).exe.config
+C:\Users\thund\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\obj\Debug\BART(New).exe
+C:\Users\thund\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\obj\Debug\BART(New).pdb
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\bin\Debug\BART(New).exe.config
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\obj\Debug\BART(New).exe
+C:\Users\Racco\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\obj\Debug\BART(New).pdb
+C:\Users\thund\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\bin\Debug\BART(New).exe
+C:\Users\thund\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\bin\Debug\BART(New).pdb
+C:\Users\thund\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\obj\Debug\BART(New).csprojResolveAssemblyReference.cache
+C:\Users\thund\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\obj\Debug\BART_New_.Form1.resources
+C:\Users\thund\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\obj\Debug\BART_New_.Form2.resources
+C:\Users\thund\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\obj\Debug\BART_New_.Form3.resources
+C:\Users\thund\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\obj\Debug\BART_New_.Properties.Resources.resources
+C:\Users\thund\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\obj\Debug\BART_New_.Resource1.resources
+C:\Users\thund\Google 雲端硬碟\BART\C#\BART(C)\BART(New)\obj\Debug\BART(New).csproj.GenerateResource.Cache
+C:\Users\Racco\Google 雲端硬碟\C#\BART_科工館\BART(New)\bin\Debug\BART(New).exe.config
+C:\Users\Racco\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART(New).exe
+C:\Users\Racco\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART(New).pdb
+C:\Users\Racco\Google 雲端硬碟\C#\BART_科工館\BART(New)\bin\Debug\BART(New).exe
+C:\Users\Racco\Google 雲端硬碟\C#\BART_科工館\BART(New)\bin\Debug\BART(New).pdb
+C:\Users\Racco\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART(New).csprojResolveAssemblyReference.cache
+C:\Users\Racco\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART_New_.Form1.resources
+C:\Users\Racco\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART_New_.Form2.resources
+C:\Users\Racco\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART_New_.Form3.resources
+C:\Users\Racco\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART_New_.Properties.Resources.resources
+C:\Users\Racco\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART_New_.Resource1.resources
+C:\Users\Racco\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART(New).csproj.GenerateResource.Cache
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\bin\Debug\BART(New).exe.config
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART(New).exe
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART(New).pdb
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\bin\Debug\BART(New).exe
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\bin\Debug\BART(New).pdb
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART(New).csprojResolveAssemblyReference.cache
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART_New_.Form1.resources
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART_New_.Form2.resources
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART_New_.Form3.resources
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART_New_.Form4.resources
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART_New_.Properties.Resources.resources
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART_New_.Resource1.resources
+C:\Users\thund\Google 雲端硬碟\C#\BART_科工館\BART(New)\obj\Debug\BART(New).csproj.GenerateResource.Cache
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_新版\BART(New)\bin\Debug\BART(New).exe.config
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_新版\BART(New)\obj\Debug\BART(New).exe
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_新版\BART(New)\obj\Debug\BART(New).pdb
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_64\BART(New)\bin\Debug\BART(New).exe.config
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_64\BART(New)\obj\Debug\BART(New).exe
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_64\BART(New)\obj\Debug\BART(New).pdb
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_64\BART(New)\bin\Debug\BART(New).exe
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_64\BART(New)\bin\Debug\BART(New).pdb
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_64\BART(New)\obj\Debug\BART(New).csprojResolveAssemblyReference.cache
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_64\BART(New)\obj\Debug\BART_New_.Form1.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_64\BART(New)\obj\Debug\BART_New_.Form2.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_64\BART(New)\obj\Debug\BART_New_.Form3.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_64\BART(New)\obj\Debug\BART_New_.Properties.Resources.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_64\BART(New)\obj\Debug\BART_New_.Resource1.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言\C#\BART_64\BART(New)\obj\Debug\BART(New).csproj.GenerateResource.Cache
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\bin\Debug\BART(New).exe.config
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\obj\Debug\BART(New).exe
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\obj\Debug\BART(New).pdb
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\bin\Debug\BART(New).exe
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\bin\Debug\BART(New).pdb
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\obj\Debug\BART(New).csprojResolveAssemblyReference.cache
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\obj\Debug\BART_New_.Form1.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\obj\Debug\BART_New_.Form2.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\obj\Debug\BART_New_.Form3.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\obj\Debug\BART_New_.Properties.Resources.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\obj\Debug\BART_New_.Resource1.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\obj\Debug\BART(New).csproj.GenerateResource.Cache
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\bin\Debug\BART_64.exe.config
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART(New)\BART_64.exe.config

@@ -1,0 +1,75 @@
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART_64\bin\Debug\BART_64.exe.config
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART_64\obj\Debug\BART_64.csprojResolveAssemblyReference.cache
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART_64\obj\Debug\BART_New_.Form1.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART_64\obj\Debug\BART_New_.Form2.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART_64\obj\Debug\BART_New_.Form3.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART_64\obj\Debug\BART_64.Properties.Resources.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART_64\obj\Debug\BART_64.Resource1.resources
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART_64\obj\Debug\BART_64.csproj.GenerateResource.Cache
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART_64\bin\Debug\BART_64.exe
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART_64\bin\Debug\BART_64.pdb
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART_64\obj\Debug\BART_64.exe
+C:\Users\Racco\Google 雲端硬碟\BART\BART_程式語言(備份)\C#\BART_64\BART_64\obj\Debug\BART_64.pdb
+D:\Google Drive\BRI\client needs\KMU\BART_64\BART_64\bin\Debug\BART_64.exe.config
+D:\Google Drive\BRI\client needs\KMU\BART_64\BART_64\obj\Debug\BART_64.exe
+D:\Google Drive\BRI\client needs\KMU\BART_64\BART_64\obj\Debug\BART_64.pdb
+D:\Google Drive\BRI\client needs\KMU\BART_64\BART_64\bin\Debug\BART_64.exe
+D:\Google Drive\BRI\client needs\KMU\BART_64\BART_64\bin\Debug\BART_64.pdb
+D:\Google Drive\BRI\client needs\KMU\BART_64\BART_64\obj\Debug\BART_64.csprojResolveAssemblyReference.cache
+D:\Google Drive\BRI\client needs\KMU\BART_64\BART_64\obj\Debug\BART_New_.Form1.resources
+D:\Google Drive\BRI\client needs\KMU\BART_64\BART_64\obj\Debug\BART_New_.Form2.resources
+D:\Google Drive\BRI\client needs\KMU\BART_64\BART_64\obj\Debug\BART_New_.Form3.resources
+D:\Google Drive\BRI\client needs\KMU\BART_64\BART_64\obj\Debug\BART_64.Properties.Resources.resources
+D:\Google Drive\BRI\client needs\KMU\BART_64\BART_64\obj\Debug\BART_64.Resource1.resources
+D:\Google Drive\BRI\client needs\KMU\BART_64\BART_64\obj\Debug\BART_64.csproj.GenerateResource.Cache
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\bin\Debug\BART_64.exe.config
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\bin\Debug\BART_64.exe
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\bin\Debug\BART_64.pdb
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\obj\Debug\BART_64.csprojResolveAssemblyReference.cache
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\obj\Debug\BART_New_.Form1.resources
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\obj\Debug\BART_New_.Form2.resources
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\obj\Debug\BART_New_.Form3.resources
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\obj\Debug\BART_64.Properties.Resources.resources
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\obj\Debug\BART_64.Resource1.resources
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\obj\Debug\BART_64.csproj.GenerateResource.Cache
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\obj\Debug\BART_64.csproj.CoreCompileInputs.cache
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\obj\Debug\BART_64.exe
+C:\Users\Racco\Desktop\BART_64_LSL\BART_64\obj\Debug\BART_64.pdb
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\bin\Debug\BART_64.exe.config
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\bin\Debug\BART_64.exe
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\bin\Debug\BART_64.pdb
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\obj\Debug\BART_64.csprojResolveAssemblyReference.cache
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\obj\Debug\BART_New_.Form1.resources
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\obj\Debug\BART_New_.Form2.resources
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\obj\Debug\BART_New_.Form3.resources
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\obj\Debug\BART_64.Properties.Resources.resources
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\obj\Debug\BART_64.Resource1.resources
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\obj\Debug\BART_64.csproj.GenerateResource.Cache
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\obj\Debug\BART_64.csproj.CoreCompileInputs.cache
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\obj\Debug\BART_64.exe
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_test\BART_64\obj\Debug\BART_64.pdb
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\bin\Debug\BART_64.exe.config
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\bin\Debug\BART_64.exe
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\bin\Debug\BART_64.pdb
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.csprojResolveAssemblyReference.cache
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_New_.Form1.resources
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_New_.Form2.resources
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_New_.Form3.resources
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.Properties.Resources.resources
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.Resource1.resources
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.csproj.GenerateResource.Cache
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.csproj.CoreCompileInputs.cache
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.exe
+C:\Users\Racco\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.pdb
+C:\Users\thund\Desktop\BART_64_LSL_TIME_keyboard\BART_64\bin\Debug\BART_64.exe.config
+C:\Users\thund\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.exe
+C:\Users\thund\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.pdb
+C:\Users\thund\Desktop\BART_64_LSL_TIME_keyboard\BART_64\bin\Debug\BART_64.exe
+C:\Users\thund\Desktop\BART_64_LSL_TIME_keyboard\BART_64\bin\Debug\BART_64.pdb
+C:\Users\thund\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.csprojResolveAssemblyReference.cache
+C:\Users\thund\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_New_.Form1.resources
+C:\Users\thund\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_New_.Form2.resources
+C:\Users\thund\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_New_.Form3.resources
+C:\Users\thund\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.Properties.Resources.resources
+C:\Users\thund\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.Resource1.resources
+C:\Users\thund\Desktop\BART_64_LSL_TIME_keyboard\BART_64\obj\Debug\BART_64.csproj.GenerateResource.Cache

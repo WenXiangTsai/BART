@@ -1,0 +1,3 @@
+C:\Users\thund\Desktop\BART_a1\BART_a1\bin\Debug\BART_8c.exe.config
+C:\Users\thund\Desktop\BART_a1\BART_a1\obj\Debug\BART_8c.exe
+C:\Users\thund\Desktop\BART_a1\BART_a1\obj\Debug\BART_8c.pdb
